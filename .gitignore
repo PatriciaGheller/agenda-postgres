@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual
+venv310/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de instalação
+get-pip.py
+*.log
+
+# Ignorar configurações locais
+.env
